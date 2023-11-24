@@ -1,9 +1,8 @@
 '''
 
-출처: https://school.programmers.co.kr/learn/courses/30/lessons/151136
+출처: https://school.programmers.co.kr/learn/courses/30/lessons/133024
 
 '''
-
 
 
 SELECT FLAVOR
