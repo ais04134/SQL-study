@@ -1,0 +1,13 @@
+'''
+
+출처: https://school.programmers.co.kr/learn/courses/30/lessons/131120
+
+'''
+
+
+SELECT MEMBER_ID, MEMBER_NAME, GENDER, DATE_OF_BIRTH
+FROM MEMBER_PROFILE
+WHERE MONTH(DATE_OF_BIRTH)=3
+      AND TLNO IS NOT NULL
+      AND GENDER ='W'
+ORDER BY MEMBER_ID;
