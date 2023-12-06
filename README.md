@@ -1,1 +1,1 @@
-# SQL-study
+# mysql-study
